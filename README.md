@@ -16,6 +16,6 @@ You can find the app on the [App Store](https://itunes.apple.com/us/app/amaztool
 
 ## Links
 
-- 🪲 Issue tracker: https://github.com/MattiaFochesato/AmazTools/issues
-- 🇮🇹 Translation platform: https://amaztools.oneskyapp.com/collaboration/project?id=149382
+- 🪲 [Issue tracker](https://github.com/MattiaFochesato/AmazTools/issues)
+- 🇮🇹 [Translation platform](https://amaztools.oneskyapp.com/collaboration/project?id=149382)
 
